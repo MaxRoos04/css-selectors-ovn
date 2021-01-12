@@ -1,0 +1,49 @@
+div em{
+    background-color: aqua;
+
+
+}
+
+li:first-child{
+    color: aqua;
+}
+
+article p{
+    color: aquamarine;
+} 
+
+a[title|="textsnutt"] {
+    color: #ff3300;
+}
+
+aside p{
+    color: #ff3300;
+}
+
+li:nth-of-type(even) {
+    background-color: #99ccff;
+}
+
+article ul{
+    border-bottom: 2px;
+}
+
+thead:nth-last-of-type(3n) {
+    color: #ffff99;
+}
+
+thead:nth-last-of-type(2n) {
+    color: #ccff66;
+}
+
+h1 {
+    font-family: font-feature-settings: "salt";
+}
+
+h3 {
+    font-family: "yusei magic", sans-serif;
+}
+
+
+
+
